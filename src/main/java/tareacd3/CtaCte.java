@@ -1,7 +1,6 @@
 package tareacd3;
 
 public class CtaCte {
-
     public static void main(String[] args) {
          
     	CtaCte miCuenta = new CtaCte();
