@@ -4,10 +4,6 @@
  */
 package tareacd3;
 
-/**
- *
- * @author Pc
- */
 public class NewClass {
     //clase para GitHub
 }
